@@ -39,7 +39,8 @@ To access the CLI via SSH, you need an SSH client, the switch IP address, and ac
 
 
 # WeOS Cheat Sheet
-![alt text](<Screenshot 2024-04-16 155850.png>)
+
+![Screenshot 2024-04-16 155850](https://github.com/MarioDiesner/WeOs/assets/167749509/c8729f3a-bf99-48e1-8e2f-0d7ff91678d7)
 
 
 ### Admin Exec context
@@ -53,7 +54,8 @@ From Global Configuration, users can navigate to specific contexts for protocols
 
 ### How to navigate in the different context menus:
 
-![alt text](<Screenshot 2024-04-16 155831.png>)
+![Screenshot 2024-04-16 155831](https://github.com/MarioDiesner/WeOs/assets/167749509/bf4414d3-3927-4dd4-a2e2-713c0ad80f33)
+
 
 | Command | Description | OS Version |
 | :--- | :--- | :--- |
